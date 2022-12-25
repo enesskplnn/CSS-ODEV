@@ -2,3 +2,28 @@
 .text-color {
     color: rgb(67, 79, 148);
 }
+
+.kutu-1 {
+    width:200px;
+    height:200px;
+    background:green;
+  }
+  .kutu-2 {
+    width:200px;
+    height:200px;
+    background:blue;
+  }
+  .kutu-3 {
+    width:200px;
+    height:200px;
+    background:red;
+  }
+  .float-l {
+    float:left;
+  }
+  .float-r {
+    float:right;
+  }
+  .clear {
+    clear:both;
+  }
