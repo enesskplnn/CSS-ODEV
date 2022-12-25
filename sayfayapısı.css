@@ -5,25 +5,62 @@
 
 .kutu-1 {
     width:200px;
-    height:200px;
-    background:rgb(255, 255, 255);
-  }
+    height:100px;
+    background:rgb(81, 178, 223);
+    margin-right: 50%;
+}
 .kutu-2 {
-    width:200px;
-    height:200px;
-    background:rgb(255, 255, 255);
-  }
-.kutu-3 {
-    width:200px;
-    height:200px;
-    background:rgb(255, 255, 255);
-  }
+    width: 100px;
+    height:100px;
+    background:rgb(81, 178, 223);
+}
 .float-l {
     float:left;
+}
+.sag-1 {
+    width: 500px;
+    margin-right: 500px;
+}
+.alt-1 {            
+    width: 200px;
+    height: 500px;
+    background-color: rgb(81, 178, 223);
+}
+.clear-1 {
+    clear:right;
+}
+.container {
+    position: relative;
   }
-.float-r {
-    float:right;
+  
+.bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+    background-color: yellow;
   }
-.clear {
-    clear:both;
+  
+.img-1 { 
+    width: 100%;
+    height:min-content;
+    opacity: 0.3;
   }
+.beyaz-1 {
+    background-color: white;
+}
+.resim-1 {
+    margin: 50px;
+}
+.div-orta {
+    position: relative;
+}
+.background-1 {
+    background-color: rgb(56, 44, 56);
+}
+.background-2 {
+    background-color: rgb(181, 116, 184);
+}
+.background-3 {
+    background-color: rgb(201, 170, 202);
+}
